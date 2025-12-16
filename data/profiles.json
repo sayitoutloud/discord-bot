@@ -1,0 +1,36 @@
+{
+  "1316513496392929404": {
+    "name": "sayitoutloud",
+    "nickname": null,
+    "steamhex": null,
+    "bio": "ffffffffffffffffffffffffffff",
+    "gender": null,
+    "level": null,
+    "xp": null,
+    "em_points": 100,
+    "sp_points": 0,
+    "amp_points": 200,
+    "rp_points": 0,
+    "roles": []
+  },
+  "809157017658196020": {
+    "name": "Dev.Cyric",
+    "nickname": "test name",
+    "steamhex": null,
+    "bio": "some text in here for test",
+    "gender": null,
+    "level": null,
+    "xp": null,
+    "em_points": null,
+    "sp_points": null,
+    "amp_points": null,
+    "rp_points": null,
+    "roles": [
+      "Ticket Support",
+      "Role Manager",
+      "Grade Manager",
+      "Rank Manager",
+      "Profile Manager"
+    ]
+  }
+}

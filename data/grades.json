@@ -1,0 +1,86 @@
+[
+  {
+    "roleId": "1426860251331821588",
+    "roleName": "General",
+    "shortcut": "GEN",
+    "number": 1
+  },
+  {
+    "roleId": "1426860345397612574",
+    "roleName": "Major General",
+    "shortcut": "MJG",
+    "number": 2
+  },
+  {
+    "roleId": "1426860392931659817",
+    "roleName": "Lieutenant General",
+    "shortcut": "LTG",
+    "number": 3
+  },
+  {
+    "roleId": "1426860459428155432",
+    "roleName": "Field Marshal",
+    "shortcut": "FLM",
+    "number": 4
+  },
+  {
+    "roleId": "1426860512716652584",
+    "roleName": "Marshal",
+    "shortcut": "BG",
+    "number": 5
+  },
+  {
+    "roleId": "1426860549425074247",
+    "roleName": "Colonel",
+    "shortcut": "COL",
+    "number": 6
+  },
+  {
+    "roleId": "1426860593180049580",
+    "roleName": "Lietenant Colonel",
+    "shortcut": "LTC",
+    "number": 7
+  },
+  {
+    "roleId": "1426860660104368129",
+    "roleName": "Major",
+    "shortcut": "MJR",
+    "number": 8
+  },
+  {
+    "roleId": "1426860688550133860",
+    "roleName": "Captain",
+    "shortcut": "CPT",
+    "number": 9
+  },
+  {
+    "roleId": "1426860719542112317",
+    "roleName": "Head Lieutenant",
+    "shortcut": "HLT",
+    "number": 10
+  },
+  {
+    "roleId": "1426862819927658496",
+    "roleName": "Lieutenant",
+    "shortcut": "LT",
+    "number": 11
+  },
+  {
+    "roleId": "1426860765633187920",
+    "roleName": "Staff Sergeant",
+    "shortcut": "SSG",
+    "number": 12
+  },
+  {
+    "roleId": "1426860819907350568",
+    "roleName": "Sergeant",
+    "shortcut": "SGT",
+    "number": 13
+  },
+  {
+    "roleId": "1426860870377541783",
+    "roleName": "Solider",
+    "shortcut": "SOLIDER",
+    "number": 14
+  }
+]
